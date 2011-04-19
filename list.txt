@@ -3,3 +3,5 @@
 2. Facebook Share link in the <head>
 
 3. Change the highlight color from "Paul Irish Pink" to something else.
+
+4. Get URLs for footer links.
