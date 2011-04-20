@@ -5,3 +5,5 @@
 3. Change the highlight color from "Paul Irish Pink" to something else.
 
 4. Get URLs for footer links.
+
+5.  Externalize non-internal links with JavaScript.
