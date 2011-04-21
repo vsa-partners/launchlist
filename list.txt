@@ -7,3 +7,5 @@
 4. Get URLs for footer links.
 
 5.  Externalize non-internal links with JavaScript.
+
+6.  Merge any useful additions to reusable JavaScript frameworks back into their respective repos.
