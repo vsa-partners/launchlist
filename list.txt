@@ -2,10 +2,12 @@
 
 2. Facebook Share link in the <head>
 
-3. Change the highlight color from "Paul Irish Pink" to something else.
+3.  Apply DD_Belated to images that need it for IE6.
 
-4. Get URLs for footer links.
+4. Change the highlight color from "Paul Irish Pink" to something else.
 
-5.  Externalize non-internal links with JavaScript.
+5. Get URLs for footer links.
 
-6.  Merge any useful additions to reusable JavaScript frameworks back into their respective repos.
+6.  Externalize non-internal links with JavaScript.
+
+7.  Merge any useful additions to reusable JavaScript frameworks back into their respective repos.
