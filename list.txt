@@ -15,3 +15,5 @@
 8.  Compress and concatenate the scripts.
 
 9.  Remove unnecessary whitespace from HTML files.
+
+10: Concatenate CSS files.
