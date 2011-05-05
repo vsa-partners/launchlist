@@ -16,4 +16,4 @@
 
 9.  Remove unnecessary whitespace from HTML files.
 
-10: Concatenate CSS files.
+10. Concatenate CSS files.
