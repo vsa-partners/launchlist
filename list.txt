@@ -2,7 +2,7 @@
 
 2. Facebook Share link in the <head>
 
-3.  Apply DD_Belated to images that need it for IE6.
+3. Apply DD_Belated to images that need it for IE6.
 
 4. Change the highlight color from "Paul Irish Pink" to something else.
 
