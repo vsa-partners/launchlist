@@ -8,13 +8,13 @@
 
 5. Get URLs for footer links.
 
-6.  Externalize non-internal links with JavaScript.
+6. Externalize non-internal links with JavaScript.
 
-7.  Merge any useful additions to reusable JavaScript frameworks back into their respective repos.
+7. Merge any useful additions to reusable JavaScript frameworks back into their respective repos.
 
-8.  Compress and concatenate the scripts.
+8. Compress and concatenate the scripts.
 
-9.  Remove unnecessary whitespace from HTML files.
+9. Remove unnecessary whitespace from HTML files.
 
 10. Concatenate CSS files.
 
