@@ -17,3 +17,5 @@
 9.  Remove unnecessary whitespace from HTML files.
 
 10. Concatenate CSS files.
+
+11. Fill out the <title> tags.
